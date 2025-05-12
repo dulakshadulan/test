@@ -1,7 +1,7 @@
 hungry = input("are you hungry?").lower()
 if hungry == "yes":
     print("eat samosa")
-    print("eat anything")
+    print("eat pizza")
 else:
     thirsty = input("are you thirsty?").lower()
     if thirsty == 'yes':
